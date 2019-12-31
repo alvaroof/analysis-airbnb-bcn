@@ -1,7 +1,7 @@
 # Studying the effect of Airbnb in Barcelona
 ### Table of Contents
 
-1. [Project Motivation](https://github.com/alvaroof/analysis-airbnb-bcn#Project Motivation)
+1. [Project Motivation](#project)
 
 2. [File Descriptions](https://github.com/alvaroof/analysis-airbnb-bcn#files)
 
@@ -11,7 +11,7 @@
 
    
 
-## Project Motivation
+## Project Motivation <a name="project"></a>
 
 After hearing about the existence of [Inside Airbnb](http://insideairbnb.com/get-the-data.html); a website that despite the name, share little in common with the [San Francisco's internet company Airbnb](https://es.wikipedia.org/wiki/Airbnb), I felt like obliged to go through the data and, at the very least, see what useful information I could gather from it. If not because I was sure that it was interesting, at least for honoring the surely unbelievable long hours that [Murray Cox](https://twitter.com/murrayscox?lang=es) and his colleagues have spent on this data-gathering and social activism project. 
 
@@ -31,9 +31,9 @@ And finally, although not a question, maybe the most important point here:
 
 ## File Descriptions 
 
-The `main_airbnb_bcn.ipynb` under [/notebooks](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/data) includes all the analysis, top to bottom. There might be other notebooks consequence of different tests run by me, but they are stored under /test. Feel free to take a look if you're interested. I started to research different functionalities for geojson files, and probably I'll be creating a visualization at some point.
+The `main_airbnb_bcn.ipynb` under [/notebooks](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/notebooks) includes all the analysis, top to bottom. There might be other notebooks consequence of different tests run by me, but they are stored under [/test](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/test). Feel free to take a look if you're interested. I started to research different functionalities for geojson files, and probably I'll be creating a visualization at some point.
 
-Finally all the necessary data, although it is open and easily downloadable from the web, has been included under /data. It basically comes from two different sources:
+Finally all the necessary data, although it is open and easily downloadable from the web, has been included under [/data](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/data). It basically comes from two different sources:
 
 - [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/es/dataset?q=lloguer) - Average price and number of rental contracts in Barcelona for different years and neighborhoods. Quarterly data since 2014.
 
