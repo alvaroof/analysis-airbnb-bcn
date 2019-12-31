@@ -1,0 +1,297 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Contractes","Nombre"
+2016,"1",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",460
+2016,"1",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",187
+2016,"1",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",207
+2016,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",277
+2016,"1",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",204
+2016,"1",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",348
+2016,"1",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",379
+2016,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",330
+2016,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",402
+2016,"1",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",254
+2016,"1",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",283
+2016,"1",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",7
+2016,"1",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",99
+2016,"1",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",63
+2016,"1",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",96
+2016,"1",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",86
+2016,"1",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",133
+2016,"1",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",266
+2016,"1",4,"Les Corts",19,"les Corts","Contractes de lloguer",231
+2016,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",103
+2016,"1",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",34
+2016,"1",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",18
+2016,"1",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",124
+2016,"1",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",74
+2016,"1",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",170
+2016,"1",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",325
+2016,"1",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",224
+2016,"1",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",122
+2016,"1",6,"Gràcia",29,"el Coll","Contractes de lloguer",45
+2016,"1",6,"Gràcia",30,"la Salut","Contractes de lloguer",78
+2016,"1",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",553
+2016,"1",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",212
+2016,"1",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",121
+2016,"1",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",38
+2016,"1",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",226
+2016,"1",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",27
+2016,"1",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",163
+2016,"1",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",72
+2016,"1",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",44
+2016,"1",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",24
+2016,"1",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",17
+2016,"1",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",4
+2016,"1",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",138
+2016,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",111
+2016,"1",8,"Nou Barris",45,"Porta","Contractes de lloguer",108
+2016,"1",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",74
+2016,"1",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",1
+2016,"1",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",74
+2016,"1",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",13
+2016,"1",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",70
+2016,"1",8,"Nou Barris",51,"Verdun","Contractes de lloguer",61
+2016,"1",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",99
+2016,"1",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",38
+2016,"1",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",8
+2016,"1",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",24
+2016,"1",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",5
+2016,"1",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",42
+2016,"1",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",7
+2016,"1",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",48
+2016,"1",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",253
+2016,"1",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",123
+2016,"1",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",62
+2016,"1",9,"Sant Andreu",63,"Navas","Contractes de lloguer",97
+2016,"1",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",245
+2016,"1",10,"Sant Martí",65,"el Clot","Contractes de lloguer",117
+2016,"1",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",55
+2016,"1",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",37
+2016,"1",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",202
+2016,"1",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",114
+2016,"1",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",64
+2016,"1",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",76
+2016,"1",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",109
+2016,"1",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",77
+2016,"1",99,"No consta",99,"No consta","Contractes de lloguer",332
+2016,"2",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",434
+2016,"2",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",183
+2016,"2",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",192
+2016,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",305
+2016,"2",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",202
+2016,"2",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",356
+2016,"2",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",349
+2016,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",389
+2016,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",430
+2016,"2",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",279
+2016,"2",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",284
+2016,"2",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",2
+2016,"2",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",106
+2016,"2",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",60
+2016,"2",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",90
+2016,"2",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",56
+2016,"2",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",147
+2016,"2",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",235
+2016,"2",4,"Les Corts",19,"les Corts","Contractes de lloguer",247
+2016,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",124
+2016,"2",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",48
+2016,"2",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",21
+2016,"2",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",147
+2016,"2",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",64
+2016,"2",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",164
+2016,"2",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",326
+2016,"2",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",231
+2016,"2",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",96
+2016,"2",6,"Gràcia",29,"el Coll","Contractes de lloguer",46
+2016,"2",6,"Gràcia",30,"la Salut","Contractes de lloguer",66
+2016,"2",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",504
+2016,"2",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",211
+2016,"2",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",164
+2016,"2",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",55
+2016,"2",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",223
+2016,"2",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",28
+2016,"2",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",155
+2016,"2",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",78
+2016,"2",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",42
+2016,"2",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",36
+2016,"2",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",16
+2016,"2",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",4
+2016,"2",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",116
+2016,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",131
+2016,"2",8,"Nou Barris",45,"Porta","Contractes de lloguer",131
+2016,"2",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",75
+2016,"2",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",4
+2016,"2",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",49
+2016,"2",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",7
+2016,"2",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",74
+2016,"2",8,"Nou Barris",51,"Verdun","Contractes de lloguer",63
+2016,"2",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",132
+2016,"2",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",22
+2016,"2",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",10
+2016,"2",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",37
+2016,"2",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",3
+2016,"2",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",43
+2016,"2",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",2
+2016,"2",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",46
+2016,"2",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",232
+2016,"2",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",121
+2016,"2",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",63
+2016,"2",9,"Sant Andreu",63,"Navas","Contractes de lloguer",74
+2016,"2",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",237
+2016,"2",10,"Sant Martí",65,"el Clot","Contractes de lloguer",127
+2016,"2",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",85
+2016,"2",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",45
+2016,"2",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",217
+2016,"2",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",79
+2016,"2",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",50
+2016,"2",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",99
+2016,"2",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",87
+2016,"2",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",69
+2016,"2",99,"No consta",99,"No consta","Contractes de lloguer",457
+2016,"3",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",397
+2016,"3",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",189
+2016,"3",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",171
+2016,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",297
+2016,"3",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",214
+2016,"3",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",380
+2016,"3",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",430
+2016,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",470
+2016,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",459
+2016,"3",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",279
+2016,"3",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",293
+2016,"3",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",1
+2016,"3",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",81
+2016,"3",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",71
+2016,"3",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",126
+2016,"3",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",58
+2016,"3",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",154
+2016,"3",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",339
+2016,"3",4,"Les Corts",19,"les Corts","Contractes de lloguer",320
+2016,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",176
+2016,"3",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",57
+2016,"3",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",14
+2016,"3",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",153
+2016,"3",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",91
+2016,"3",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",195
+2016,"3",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",379
+2016,"3",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",279
+2016,"3",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",107
+2016,"3",6,"Gràcia",29,"el Coll","Contractes de lloguer",55
+2016,"3",6,"Gràcia",30,"la Salut","Contractes de lloguer",73
+2016,"3",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",545
+2016,"3",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",261
+2016,"3",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",151
+2016,"3",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",53
+2016,"3",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",219
+2016,"3",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",36
+2016,"3",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",145
+2016,"3",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",76
+2016,"3",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",36
+2016,"3",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",42
+2016,"3",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",26
+2016,"3",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",3
+2016,"3",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",125
+2016,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",102
+2016,"3",8,"Nou Barris",45,"Porta","Contractes de lloguer",112
+2016,"3",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",71
+2016,"3",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",5
+2016,"3",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",62
+2016,"3",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",8
+2016,"3",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",56
+2016,"3",8,"Nou Barris",51,"Verdun","Contractes de lloguer",49
+2016,"3",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",117
+2016,"3",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",29
+2016,"3",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",4
+2016,"3",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",30
+2016,"3",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",5
+2016,"3",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",37
+2016,"3",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",7
+2016,"3",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",33
+2016,"3",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",242
+2016,"3",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",160
+2016,"3",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",57
+2016,"3",9,"Sant Andreu",63,"Navas","Contractes de lloguer",99
+2016,"3",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",260
+2016,"3",10,"Sant Martí",65,"el Clot","Contractes de lloguer",132
+2016,"3",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",81
+2016,"3",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",42
+2016,"3",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",205
+2016,"3",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",72
+2016,"3",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",62
+2016,"3",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",79
+2016,"3",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",90
+2016,"3",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",88
+2016,"3",99,"No consta",99,"No consta","Contractes de lloguer",367
+2016,"4",1,"Ciutat Vella",1,"el Raval","Contractes de lloguer",442
+2016,"4",1,"Ciutat Vella",2,"el Barri Gòtic","Contractes de lloguer",226
+2016,"4",1,"Ciutat Vella",3,"la Barceloneta","Contractes de lloguer",219
+2016,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Contractes de lloguer",298
+2016,"4",2,"Eixample",5,"el Fort Pienc","Contractes de lloguer",250
+2016,"4",2,"Eixample",6,"la Sagrada Família","Contractes de lloguer",401
+2016,"4",2,"Eixample",7,"la Dreta de l'Eixample","Contractes de lloguer",453
+2016,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Contractes de lloguer",436
+2016,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Contractes de lloguer",475
+2016,"4",2,"Eixample",10,"Sant Antoni","Contractes de lloguer",288
+2016,"4",3,"Sants-Montjuïc",11,"el Poble Sec","Contractes de lloguer",290
+2016,"4",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Contractes de lloguer",0
+2016,"4",3,"Sants-Montjuïc",13,"la Marina de Port","Contractes de lloguer",94
+2016,"4",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Contractes de lloguer",69
+2016,"4",3,"Sants-Montjuïc",15,"Hostafrancs","Contractes de lloguer",123
+2016,"4",3,"Sants-Montjuïc",16,"la Bordeta","Contractes de lloguer",68
+2016,"4",3,"Sants-Montjuïc",17,"Sants - Badal","Contractes de lloguer",175
+2016,"4",3,"Sants-Montjuïc",18,"Sants","Contractes de lloguer",330
+2016,"4",4,"Les Corts",19,"les Corts","Contractes de lloguer",311
+2016,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Contractes de lloguer",146
+2016,"4",4,"Les Corts",21,"Pedralbes","Contractes de lloguer",50
+2016,"4",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Contractes de lloguer",13
+2016,"4",5,"Sarrià-Sant Gervasi",23,"Sarrià","Contractes de lloguer",161
+2016,"4",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Contractes de lloguer",101
+2016,"4",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Contractes de lloguer",198
+2016,"4",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Contractes de lloguer",365
+2016,"4",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Contractes de lloguer",270
+2016,"4",6,"Gràcia",28,"Vallcarca i els Penitents","Contractes de lloguer",134
+2016,"4",6,"Gràcia",29,"el Coll","Contractes de lloguer",52
+2016,"4",6,"Gràcia",30,"la Salut","Contractes de lloguer",83
+2016,"4",6,"Gràcia",31,"la Vila de Gràcia","Contractes de lloguer",589
+2016,"4",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Contractes de lloguer",219
+2016,"4",7,"Horta-Guinardó",33,"el Baix Guinardó","Contractes de lloguer",173
+2016,"4",7,"Horta-Guinardó",34,"Can Baró","Contractes de lloguer",61
+2016,"4",7,"Horta-Guinardó",35,"el Guinardó","Contractes de lloguer",221
+2016,"4",7,"Horta-Guinardó",36,"la Font d'en Fargues","Contractes de lloguer",32
+2016,"4",7,"Horta-Guinardó",37,"el Carmel","Contractes de lloguer",150
+2016,"4",7,"Horta-Guinardó",38,"la Teixonera","Contractes de lloguer",85
+2016,"4",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Contractes de lloguer",42
+2016,"4",7,"Horta-Guinardó",40,"Montbau","Contractes de lloguer",39
+2016,"4",7,"Horta-Guinardó",41,"la Vall d'Hebron","Contractes de lloguer",18
+2016,"4",7,"Horta-Guinardó",42,"la Clota","Contractes de lloguer",4
+2016,"4",7,"Horta-Guinardó",43,"Horta","Contractes de lloguer",126
+2016,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Contractes de lloguer",106
+2016,"4",8,"Nou Barris",45,"Porta","Contractes de lloguer",138
+2016,"4",8,"Nou Barris",46,"el Turó de la Peira","Contractes de lloguer",80
+2016,"4",8,"Nou Barris",47,"Can Peguera","Contractes de lloguer",8
+2016,"4",8,"Nou Barris",48,"la Guineueta","Contractes de lloguer",56
+2016,"4",8,"Nou Barris",49,"Canyelles","Contractes de lloguer",10
+2016,"4",8,"Nou Barris",50,"les Roquetes","Contractes de lloguer",64
+2016,"4",8,"Nou Barris",51,"Verdun","Contractes de lloguer",59
+2016,"4",8,"Nou Barris",52,"la Prosperitat","Contractes de lloguer",125
+2016,"4",8,"Nou Barris",53,"la Trinitat Nova","Contractes de lloguer",27
+2016,"4",8,"Nou Barris",54,"Torre Baró","Contractes de lloguer",7
+2016,"4",8,"Nou Barris",55,"Ciutat Meridiana","Contractes de lloguer",31
+2016,"4",8,"Nou Barris",56,"Vallbona","Contractes de lloguer",3
+2016,"4",9,"Sant Andreu",57,"la Trinitat Vella","Contractes de lloguer",40
+2016,"4",9,"Sant Andreu",58,"Baró de Viver","Contractes de lloguer",2
+2016,"4",9,"Sant Andreu",59,"el Bon Pastor","Contractes de lloguer",32
+2016,"4",9,"Sant Andreu",60,"Sant Andreu","Contractes de lloguer",234
+2016,"4",9,"Sant Andreu",61,"la Sagrera","Contractes de lloguer",131
+2016,"4",9,"Sant Andreu",62,"el Congrés i els Indians","Contractes de lloguer",55
+2016,"4",9,"Sant Andreu",63,"Navas","Contractes de lloguer",103
+2016,"4",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Contractes de lloguer",292
+2016,"4",10,"Sant Martí",65,"el Clot","Contractes de lloguer",149
+2016,"4",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Contractes de lloguer",88
+2016,"4",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Contractes de lloguer",49
+2016,"4",10,"Sant Martí",68,"el Poblenou","Contractes de lloguer",215
+2016,"4",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Contractes de lloguer",72
+2016,"4",10,"Sant Martí",70,"el Besòs i el Maresme","Contractes de lloguer",75
+2016,"4",10,"Sant Martí",71,"Provençals del Poblenou","Contractes de lloguer",108
+2016,"4",10,"Sant Martí",72,"Sant Martí de Provençals","Contractes de lloguer",91
+2016,"4",10,"Sant Martí",73,"la Verneda i la Pau","Contractes de lloguer",69
+2016,"4",99,"No consta",99,"No consta","Contractes de lloguer",398
