@@ -3,11 +3,11 @@
 
 1. [Project Motivation](#project)
 
-2. [File Descriptions](https://github.com/alvaroof/analysis-airbnb-bcn#files)
+2. [Installation and File Descriptions](#file)
 
-3. [Results](https://github.com/alvaroof/analysis-airbnb-bcn#results)
+3. [Results](#results)
 
-4. [Licensing, Authors, and Acknowledgements](https://github.com/alvaroof/analysis-airbnb-bcn#licensing)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
    
 
@@ -29,7 +29,9 @@ And finally, although not a question, maybe the most important point here:
 
     
 
-## File Descriptions 
+## Installation and File Descriptions <a name="file"></a>
+
+I am still working on the requirement text file for the neccesary packages (sorry guys, my conda installation is a mess these days) but for this initial version of the project, as long as you do not attempt to run any notebook with testing code, no packages other than the base ones in Python 3.x are needed.
 
 The `main_airbnb_bcn.ipynb` under [/notebooks](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/notebooks) includes all the analysis, top to bottom. There might be other notebooks consequence of different tests run by me, but they are stored under [/test](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/test). Feel free to take a look if you're interested. I started to research different functionalities for geojson files, and probably I'll be creating a visualization at some point.
 
@@ -41,13 +43,15 @@ Finally all the necessary data, although it is open and easily downloadable from
 
   
 
-## Results
+## Results <a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@ortiz.fernandez.alvaro/this-data-about-airbnb-will-make-you-rethink-what-it-is-doing-to-your-city-1318576ba5c4).
 
+As the project moves forward, this section will be updated with new insights and links to posts.
 
 
-## Licensing, Authors, Acknowledgements
+
+## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
 I really must give credit to **Murray Cox and the Inside Airbnb team** for their huge effort in not only bringing together all the data from different snapshots of Airbnb webpages but, well, also have initially come up with the idea that something stank in the Airbnb business and that it should be monitored and studied.  
 
