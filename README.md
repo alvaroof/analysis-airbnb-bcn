@@ -1,13 +1,13 @@
 # Studying the effect of Airbnb in Barcelona
 ### Table of Contents
 
-1. [Project Motivation](https://github.com/jjrunner/stackoverflow#motivation)
+1. [Project Motivation](https://github.com/alvaroof/analysis-airbnb-bcn#Project Motivation)
 
-2. [File Descriptions](https://github.com/jjrunner/stackoverflow#files)
+2. [File Descriptions](https://github.com/alvaroof/analysis-airbnb-bcn#files)
 
-3. [Results](https://github.com/jjrunner/stackoverflow#results)
+3. [Results](https://github.com/alvaroof/analysis-airbnb-bcn#results)
 
-4. [Licensing, Authors, and Acknowledgements](https://github.com/jjrunner/stackoverflow#licensing)
+4. [Licensing, Authors, and Acknowledgements](https://github.com/alvaroof/analysis-airbnb-bcn#licensing)
 
    
 
