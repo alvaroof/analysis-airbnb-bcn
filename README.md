@@ -31,7 +31,7 @@ And finally, although not a question, maybe the most important point here:
 
 ## File Descriptions 
 
-The `main_airbnb_bcn.ipynb` under /notebooks includes all the analysis, top to bottom. There might be other notebooks consequence of different tests run by me, but they are stored under /test. Feel free to take a look if you're interested. I started to research different functionalities for geojson files, and probably I'll be creating a visualization at some point.
+The `main_airbnb_bcn.ipynb` under [/notebooks](https://github.com/alvaroof/analysis-airbnb-bcn/edit/master/data) includes all the analysis, top to bottom. There might be other notebooks consequence of different tests run by me, but they are stored under /test. Feel free to take a look if you're interested. I started to research different functionalities for geojson files, and probably I'll be creating a visualization at some point.
 
 Finally all the necessary data, although it is open and easily downloadable from the web, has been included under /data. It basically comes from two different sources:
 
