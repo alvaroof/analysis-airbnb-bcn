@@ -55,10 +55,10 @@ As the project moves forward, this section will be updated with new insights and
 
 I really must give credit to **Murray Cox and the Inside Airbnb team** for their huge effort in not only bringing together all the data from different snapshots of Airbnb webpages but, well, also have initially come up with the idea that something stank in the Airbnb business and that it should be monitored and studied.  
 
-Also thanks to the **Open Data Barcelona Portal**, which is a cool initiative as it allows citizens like to further study what is happening in their cities during this era of technological disruption.
+Also thanks to the **Open Data Barcelona Portal**, which is a cool initiative as it allows citizens like me to further study what is happening in their cities during this era of technological disruption.
 
 Last but not least, also thanks to the udacity nanodegree in Data Science and the excellent material and guidance they offer there, as this idea started as the first deliverable in that course.
 
 In terms of licensing, you can visit both sources for the data listed in **File Descriptions** to check what are theirs.
 
-The author is only me. Professionally I work as a Data Scientist in the healthcare industry, but have little presence on internet. You can reach me at *ortiz.fernandez.alvaro@gmail.com* should you have any comment, question, or idea to enhance this study in Barcelona.
+The author is only me. Professionally I work as a Data Scientist in the healthcare industry, but have little presence on the internet. You can reach me at *ortiz.fernandez.alvaro@gmail.com* should you have any comment, question, or idea to enhance this study in Barcelona.
